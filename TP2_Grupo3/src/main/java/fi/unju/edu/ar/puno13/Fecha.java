@@ -12,11 +12,6 @@ public class Fecha {
         this.mes = mes;
         this.año = año;}
     
-    public void asignarFecha(int dia,int mes,int año) {
-    	
-    	
-    }
-    
     
     
     
