@@ -1,4 +1,4 @@
-package fi.unju.edu.ar.puno13;
+package fi.unju.edu.ar.punto13;
 public class Fecha {
 	private int dia;
 	private int mes;
